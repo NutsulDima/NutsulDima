@@ -20,4 +20,4 @@
 - Email: nutsul.dmytro@chnu.edu.ua
 
 ## 📌 Проєкти
-- [web-technologies](https://github.com/NutsulDima/web-technologies) — навчальні лабораторні роботи
+- [web-technologies](https://github.com/NutsulDima/-web-technologies) — навчальні лабораторні роботи
